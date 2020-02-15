@@ -35,7 +35,7 @@
 # end
 
 
-# Efficient way to write the code #
+# --- Efficient way to write the code ---- #
     
     class Book
     attr_accessor :author, :page_count, :genre
